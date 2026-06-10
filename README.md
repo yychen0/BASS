@@ -1,5 +1,5 @@
 # BASS
-
+“检验是否能回传”
 BASS: A Blockchain-Based Asynchronous SignSGD Architecture for Efficient and Secure Federated Learning
 
 ## Install
